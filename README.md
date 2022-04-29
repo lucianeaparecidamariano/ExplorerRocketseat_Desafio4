@@ -3,6 +3,10 @@ Desafio 4 do Stage 2 - Eplorer Rocketseat
 
 <h1 align="center">Recriando Layout</h1>
 
+<p align="center">
+ <img src="https://github.com/lucianeaparecidamariano/ExplorerRocketseat_Desafio4/issues/1#issue-1221406567" alt="tela"/>
+</p>
+
 
 <p align="center">Página estática para treinar os conhecimentos adquiridos nas aulas do nível 2 do programa Explorer da Rocketseat <a href="https://github.com/lucianeaparecidamariano/ExplorerRocketseat_Desafio2">here</a></p>
 
