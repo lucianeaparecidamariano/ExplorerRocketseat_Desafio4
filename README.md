@@ -1,5 +1,3 @@
-# ExplorerRocketseat_Desafio4
-Desafio 4 do Stage 2 - Explorer Rocketseat
 
 <h1 align="center">Recriando Layout</h1>
 
