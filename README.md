@@ -8,19 +8,33 @@ Desafio 4 do Stage 2 - Explorer Rocketseat
 </p>
 
 
-<p align="center">Página estática para treinar os conhecimentos adquiridos nas aulas do nível 2 do programa Explorer da Rocketseat <a href="https://github.com/lucianeaparecidamariano/ExplorerRocketseat_Desafio2">here</a></p>
+<p align="center"><a href="https://github.com/lucianeaparecidamariano/ExplorerRocketseat_Desafio2">Clique aqui para visualizar o projeto</a></p>
 
-<p align="center">
- <a href="#technologies">Tecnologias</a> •
-</p>
+<h2>:wrench:Sobre o projeto</h2>
 
-<h1 id="technologies">:computer: Tecnologias</h1>
+<p>Construção de uma página estatíca aplicando os conhecimentos do stage 2 do programa Explorer da Rocketseat:</p>
+<ul>
+  <li>Cores e fontes;</li>
+  <li>Ajustes de textos;</li>
+  <li>Trabalhando espaçamentos;</li>
+  <li>Bordas e classificação de elementos;</li>
+  <li>Posicionando elementos.</li>
+  <li>Tags semânticas;</li>
+  <li>Box Model;</li>
+  <li>Flexbox;</li>
+  <li>Acessibilidade;</li>
+  <li>Adicionando fontes;</li>
+  <li>Melhorando os textos;</li>
+  <li>Botão;</li>
+  <li>Background linear-gradient.</li>
+</ul>
 
-<p>Foram utilizadas as seguintes tecnologias:</p>
+<h2>:computer: Tecnologias utilizadas:</h2>
 
-- HTML
-- CSS
+:white_check_mark: HTML
+<br>
+:white_check_mark: CSS
 
-
+<br>
 
 Feito com :heart: por Luciane Aparecida Mariano
