@@ -4,7 +4,7 @@ Desafio 4 do Stage 2 - Explorer Rocketseat
 <h1 align="center">Recriando Layout</h1>
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/92582446/166007691-fb5c8a54-f93a-426f-a3ef-00e85533a80a.jpg" alt="tela"/>
+ <img src="https://user-images.githubusercontent.com/92582446/166221236-5e932bc3-1803-4da7-b0b6-aa7083d2a40f.jpg" alt="tela"/>
 </p>
 
 
