@@ -6,7 +6,7 @@
 </p>
 
 
-<p align="center"><a href="https://github.com/lucianeaparecidamariano/Recriando_Layout.git">Clique aqui para acessar o projeto</a></p>
+<p align="center"><a href="https://lucianeaparecidamariano.github.io/Recriando_Layout/">Clique aqui para acessar o projeto</a></p>
 
 <h2>:wrench:Sobre o projeto</h2>
 
