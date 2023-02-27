@@ -6,7 +6,7 @@
 </p>
 
 
-<p align="center"><a href="https://github.com/lucianeaparecidamariano/ExplorerRocketseat_Desafio2">Clique aqui para visualizar o projeto</a></p>
+<p align="center"><a href="https://github.com/lucianeaparecidamariano/ExplorerRocketseat_Desafio2"></a></p>
 
 <h2>:wrench:Sobre o projeto</h2>
 
